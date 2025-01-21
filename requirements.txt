@@ -8,4 +8,5 @@ streamlit
 langchain_community
 python-dotenv
 pypdf
-google-cloud-aiplatform>=1.38
+google-cloud-aiplatform
+llama-parse
